@@ -16,6 +16,7 @@ This project uses deep learning to detect urban changes using NDVI (Normalized D
 ![Result](output/accuracy_result.PNG)
 ## Output
 ![Result](output/ndvi_2017.PNG)
+![Result](output/ndvi_2025.PNG)
 ## Result
 ![Result](output/change mask.PNG)
 
