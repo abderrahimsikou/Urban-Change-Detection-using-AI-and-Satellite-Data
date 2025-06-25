@@ -41,19 +41,19 @@ This project uses deep learning to detect urban changes using NDVI (Normalized D
 ## 🚀 Project Structure
 
 urban-change-detection/
-├── satellite data/
-│ └── img_data_2017 / img_data_2025
-├── model/
-│ └── model.h5
-├── notebooks/
-│ └── Analysis & Training_Model.ipynb
-├── scripts/
-│ └── change_detection.py
-├── output/
-│ ├── ndvi_2017.PNG
-│ ├── ndvi_2025.PNG
-│ └── change_result.PNG
-├── README.md
+- ├── satellite data/
+- │ └── img_data_2017 / img_data_2025
+- ├── model/
+- │ └── model.h5
+- ├── notebooks/
+- │ └── Analysis & Training_Model.ipynb
+- ├── scripts/
+- │ └── change_detection.py
+- ├── output/
+- │ ├── ndvi_2017.PNG
+- │ ├── ndvi_2025.PNG
+- │ └── change_result.PNG
+- ├── README.md
 
 
 ## 💻 Technologies Used
